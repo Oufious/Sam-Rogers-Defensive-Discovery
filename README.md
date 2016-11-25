@@ -1,2 +1,2 @@
-# Sam-Rogers-Defensive-Discovery
+# Sam Rogers: Defensive Discovery
 Designed by Aclevo
